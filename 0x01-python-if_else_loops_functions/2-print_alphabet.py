@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
-for alphabets in range(ord('a'), ord('z') + 1):
-    print(chr(alphabets), end="")
+for letter in range(ord('a'), ord('z') + 1):
+    print(f"{chr(letter)}", end="")
