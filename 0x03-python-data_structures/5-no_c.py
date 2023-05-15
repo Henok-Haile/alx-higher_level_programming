@@ -8,5 +8,5 @@ def no_c(my_string):
         if (my_string[x] != 'c' and my_string[x] != 'C'):
             # new_string.insert(x, my_string[x])
             new_string.append(my_string[x])
-    
+
     return ("".join(new_string))
