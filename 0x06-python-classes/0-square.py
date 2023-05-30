@@ -3,6 +3,3 @@
 class Square:
     """Empty Class"""
     pass
-
-
-square = Square()
