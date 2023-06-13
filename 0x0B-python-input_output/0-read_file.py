@@ -4,7 +4,7 @@
 
 def read_file(filename=""):
     """prints the contents of a utf8 text file to the stdout.
-    
+
     Args:
         filename: The path to the file to read.
 
