@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """Defines a fucntion that reads a text file"""
 
 
