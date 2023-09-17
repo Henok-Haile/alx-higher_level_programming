@@ -23,4 +23,3 @@ if __name__ == "__main__":
     print(instance.id)
     session.commit()
     session.close()
-
